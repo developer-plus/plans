@@ -1,0 +1,41 @@
+name:  "\U0001F331 新建"
+title: "【TODO】"
+description: "新建待办事项。"
+labels: ["pr welcome"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您抽出时间为 developer-plus 做贡献！
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述
+    validations:
+      required: true
+  - type: input
+    id: technology
+    attributes:
+      label: 相关知识
+    validations:
+      required: false
+  - type: input
+    id: target
+    attributes:
+      label: 目标仓库
+      placeholder: ex. https://github.com/developer-plus/ToDoList
+    validations:
+      required: false
+  - type: input
+    id: end-time
+    attributes:
+      label: 截止日期
+      placeholder: YYYY-MM-DD
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+    validations:
+      required: false
