@@ -14,12 +14,6 @@ body:
     validations:
       required: true
   - type: input
-    id: technology
-    attributes:
-      label: 相关知识
-    validations:
-      required: false
-  - type: input
     id: target
     attributes:
       label: 目标仓库
