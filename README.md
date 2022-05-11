@@ -26,6 +26,10 @@ developer-plus [待办事项列表](https://github.com/developer-plus/ToDoList/i
 - 想结识热爱开源的伙伴。
 - ...
 
+## Todo List
+
+powered by `Svelte` and `Vite`
+
 ## LICENSE
 
 MIT, Copyright (c) 2022 developer-plus.
