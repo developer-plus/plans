@@ -2,6 +2,8 @@
 
 developer-plus [待办事项列表](https://github.com/developer-plus/ToDoList/issues)。
 
+[dev log](./DEV.md)
+
 ## 初心
 
 能够关注到 developer-plus 组织的小伙伴们，应该都是想参加开源项目贡献。
