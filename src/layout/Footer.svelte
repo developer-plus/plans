@@ -1,6 +1,6 @@
 <main
   class="
-  w-[40%] flex justify-center items-center gap-3
+  w-full flex justify-center items-center gap-3
   my-0 mx-auto p-2 box-border
   border-t-gray/40 border-t-2
   text-gray-400

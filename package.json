@@ -19,7 +19,6 @@
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
     "@tsconfig/svelte": "^2.0.1",
     "eslint": "^8.15.0",
-    "eslint-plugin-svelte3": "^4.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
     "svelte": "^3.44.0",
@@ -31,6 +30,7 @@
     "vite": "^2.9.9"
   },
   "dependencies": {
+    "ohmyfetch": "^0.4.17",
     "svelte-spa-router": "^3.2.0"
   }
 }

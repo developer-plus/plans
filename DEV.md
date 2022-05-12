@@ -5,6 +5,7 @@
 - Svelte
 - TypeScript
 - Unocss
+- ohmyfetch
 
 ## Tasks 🔧
 
