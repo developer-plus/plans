@@ -4,7 +4,7 @@
   import Footer from './layout/Footer.svelte'
 </script>
 
-<div class="w-[100vw] h-[100vh] bg-[#3c7199]">
+<div class="max-w-[768px] my-0 mx-auto">
   <Router {routes} />
 
   <Footer />
