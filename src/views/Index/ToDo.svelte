@@ -11,7 +11,7 @@
   let issuesData: Issue[] = []
 
   async function fetch() {
-    const data = await http<Issue[]>(`${ISSUES_URL}?state=all`)
+    const data = await http<Issue[]>(`${ISSUES_URL}?state=all&labels=ToDo`)
     issuesData = data
   }
   fetch()
