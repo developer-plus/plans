@@ -17,8 +17,9 @@
     hover:translate-y--1 transition
     p-5 box-border
 "
+  on:click={goToIssuePage}
 >
-  <div class="font-bold text-2xl text-[#3c7199]" on:click={goToIssuePage}>
+  <div class="font-bold text-2xl text-[#3c7199]">
     {issue.title}
   </div>
 </div>
